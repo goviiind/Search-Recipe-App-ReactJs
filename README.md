@@ -1,7 +1,7 @@
 # Created Using ReactJs
 ## API used : Edamam's Recipe Search API
 
-### Visit Site (https://recipe-search-app-govind.netlify.app/) 
+### [Visit Site][https://recipe-search-app-govind.netlify.app/]
 
 
 
